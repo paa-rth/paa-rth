@@ -7,13 +7,14 @@
 I'm a software engineer who is passionate about making contribution to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2024, I was selected to be a <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/">Microsoft Learn Student Ambasador🌟</a> based on my involvement in the tech community and my constant pursuit of new technological breakthroughs to support the real benafactors.
 You would find me with my computer either creating something new with my team or planning a long car ride with meticulous planninng down to my perefct spotify playlist 🛣️.
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/paa-rth"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="https://github.com/sponsors/paa-rth"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/paarth-baradia/">LinkedIn</a> 💼
 - Tinkering with interactions on <a href="https://paa-rth.vercel.app">Portfolio</a> 🏓
 - Let's work together!! <a href="https://paa-rth.vercel.app">My Resume</a> 🏓
 
 
-
+### ⚙️ &nbsp;My Tech Stack
+#### Programming Languages 
 
 ![C](https://skillicons.dev/icons?i=c)
 ![HTML5](https://skillicons.dev/icons?i=html)
