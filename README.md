@@ -1,4 +1,4 @@
-# Hi, I'm Paarth Baradia 👋🏻 👨🏻‍💻
+<h3>Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>I am</h3>
 
 <img src="https://raw.githubusercontent.com/paa-rth/paa-rth/master/gh-header-image-cropped.png" alt="banner that says Paarth Baradia - software engineer, content creator and community organizer alongside a cartoon illustration of Paarth">
 
@@ -10,7 +10,7 @@ You would find me with my computer either creating something new with my team or
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/paa-rth"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/paarth-baradia/">LinkedIn</a> 💼
 - Tinkering with interactions on <a href="https://paa-rth.vercel.app">Portfolio</a> 🏓
-- Let's work together!! <a href="https://paa-rth.vercel.app">My Resume</a> 🏓
+- Let's work together!! <a href="https://paa-rth.vercel.app">My Resume</a> ⚙️
 
 
 ### ⚙️ &nbsp;My Tech Stack
@@ -95,25 +95,11 @@ You would find me with my computer either creating something new with my team or
 </p>
 
 
-### 👋 &nbsp;Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/paarth-baradia/">
-        <img
-            height="25"
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-  </a>
-  <a href="mailto:paarthbaradia.psb@gmail.com">
-        <img
-            height="25"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    <a href="https://github.com/paa-rth">
-        <img
-            height="25"
-            src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-</p>
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/paa-rth) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/paarth._._/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/paa-rth) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:paarthbaradia.psb@gmail.com)
+
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paa-rth&color=blue&style=flat&label=Profile+Views&base=1000)
