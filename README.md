@@ -10,7 +10,7 @@ You would find me with my computer either creating something new with my team or
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/paa-rth"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/paarth-baradia/">LinkedIn</a> 💼
 - Tinkering with interactions on <a href="https://paa-rth.vercel.app">Portfolio</a> 🏓
-- Let's work together!! <a href="https://paa-rth.vercel.app">My Resume</a> ⚙️
+- Let's work together!! <a href="https://paa-rth.vercel.app/assets/cv.pdf">My Resume</a> ⚙️
 
 
 ### ⚙️ &nbsp;My Tech Stack
